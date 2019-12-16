@@ -1,0 +1,82 @@
+---
+title: "Another Xaringan Template"
+subtitle: "For Monash University"
+author: "YourName Here"
+institute: "School of YourSchool Here"
+date: "Your Conference 14/12/2019"
+output:
+  xaringan::moon_reader:
+    css: ["./css/monash.css", "./css/monash-fonts.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      # ratio: '4:3' # alternatives '16:9' or '4:3' or others e.g. 13:9
+      ratio: '16:9' # or '4:3' or others e.g. 13:9
+      navigation:
+        scroll: true # disable slide transitions by scrolling
+---
+class: center, middle
+
+# Joint Work
+
+---
+class: center, middle
+
+# _(Co)-Starring:_
+
+---
+class: center
+
+# _(Co)-Starring:_
+.column[
+
+### Eva Cantoni
+
+<img src="https://www.unige.ch/gsem/files/cache/89437c652682ce133175f82b3238bb0a_f3835.jpg" width="350">
+
+<img src="./img/gsem_en.png" width="150">
+
+]
+
+.column[
+
+### Stephane Heritier
+
+<img src="https://research.monash.edu/files-asset/248358259/Stephane_Roland_Heritier.jpg" width="150">
+
+<img src="./img/monash-stacked-black-cmyk.png" width="150">
+
+]
+
+.column[
+
+### Rory Wolfe
+
+<img src="https://research.monash.edu/files-asset/248351697/profile+photo" width="150">
+
+<img src="./img/monash-stacked-black-cmyk.png" width="150">
+
+]
+
+---
+
+# Outline
+
+1. **Clustered Data**
+
+2. **Bootstrapping** Clustered Data
+
+3. Bootstrapping Clustered Data via a **Weighted Laplace Approximation**
+
+4. (Some) Properties
+
+5. Discussion and Current Work
+
+---
+class: inverse, center, middle
+
+
+
+---
